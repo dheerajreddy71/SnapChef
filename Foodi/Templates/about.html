@@ -1,0 +1,42 @@
+{% extends "layout.html" %}
+{% block content %}
+
+</div>
+    </div>
+</div>    
+
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@400..800&display=swap');
+  .aboutcontent{
+    font-family: "Baloo Bhai 2", sans-serif;
+    color: brown;
+  }
+
+  .card-header{
+    font-family: "Baloo Bhai 2", sans-serif;
+    color: #bb86fc;
+  }
+  .title{
+    font-family: "Baloo Bhai 2", sans-serif;
+  }
+</style>
+
+<div id="section-about"onload="sampleFunction()">
+    <div id="aboutcard" class="card col-md-8">
+        <div class="card-header ">
+          <b>ABOUT</b>
+        </div>
+        <div class="card-body">
+          <p class="title">TITLE : SnapChef</p>
+          <p class="title">ABSTRACT :</p>
+          <p class="aboutcontent">People like food photos because they love food. 
+          Every meal has a story in its recipe, but just looking at a picture doesn't tell you how to make it.
+          So, we are introducing <strong>SnapChef</strong> that figures out recipes from food pictures.
+          It guesses what ingredients are in the food and how to cook it, without needing to follow a strict order.
+          This helps people understand recipes better just by looking at pictures.
+          </p>
+        </div>
+      </div>
+</div>
+
+{% endblock content %}
