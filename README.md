@@ -4,7 +4,9 @@ Introducing our "SnapChef" project, an innovative application that leverages the
 
 ### Preview :
 ![Screenshot 2024-06-03 223215](https://github.com/DivyangJoshi1/SnapChef/assets/99973206/b63d176b-461c-4d96-9321-230b07cf95d0)
+
 ![Screenshot 2024-06-03 223106](https://github.com/DivyangJoshi1/SnapChef/assets/99973206/53576b01-1a7a-42d6-8ae8-1c8c86a2327c)
+
 
 **Recipe Title:** A captivating and descriptive name for the dish.
 
