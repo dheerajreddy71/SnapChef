@@ -1,4 +1,4 @@
-# SnapChef
+### SnapChef
 
 Introducing our "SnapChef" project, an innovative application that leverages the power of deep learning to convert images of delicious dishes into comprehensive cooking recipes. With just a simple snapshot, our system extracts all essential information, including:
 
